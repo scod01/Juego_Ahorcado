@@ -5,7 +5,7 @@ Pon a prueba tu vocabulario y lógica intentando adivinar la palabra oculta ante
 
 ---
 
-![Portada del juego](ahorcado.png)
+![Portada del juego](juego_ahorcado.png)
 
 ---
 
