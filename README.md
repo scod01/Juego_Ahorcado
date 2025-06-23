@@ -1,29 +1,31 @@
-![Banner](juego_ahorcado,png)
+# 🪢 Juego del Ahorcado en Python
 
-# 🕹️ Juego del Ahorcado en Python
-
-Juego clásico del ahorcado implementado en Python. El jugador debe adivinar una palabra oculta letra a letra antes de quedarse sin vidas.
-
----
-
-## Características
-
-- Palabras en español cargadas desde un archivo `.txt`.
-- Control de letras usadas (acertadas y fallidas).
-- Validación de entrada para solo aceptar una letra válida.
-- Mensajes claros para el jugador.
-- Código comentado y fácil de entender, ideal para principiantes.
+¡Bienvenido a este clásico juego del Ahorcado, programado en Python para consola!  
+Pon a prueba tu vocabulario y lógica intentando adivinar la palabra oculta antes de quedarte sin intentos.
 
 ---
 
-## Cómo ejecutar
+![Portada del juego](ahorcado.png)
 
-1. Clona o descarga el repositorio.
-2. Asegúrate de tener Python 3 instalado.
-3. Ejecuta el archivo:
+---
+
+## 🎮 Cómo jugar
+
+- El juego selecciona una palabra secreta al azar.
+- Introduce letras para descubrir la palabra.
+- Se mostrará tu progreso con guiones bajos y letras acertadas.
+- Tienes un número limitado de intentos para adivinarla.
+
+## 💻 Requisitos
+
+- Python 3.x instalado en tu equipo.
+
+## 🚀 Ejecutar el juego
+
+Desde la terminal, en la carpeta del proyecto, ejecuta:
 
 ```bash
-Juego_Ahorcado.py
+python ahorcado.py
 
 ## 👨‍💻 Autor
 
