@@ -1,4 +1,4 @@
-![Portada de Juego Ahorcado](./juego_ahorcado,png)
+![Banner](juego_ahorcado,png)
 
 # 🕹️ Juego del Ahorcado en Python
 
